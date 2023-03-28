@@ -1,3 +1,7 @@
 Just some text.
+<<<<<<< HEAD
 
 This is some text.
+=======
+## an edit on github
+>>>>>>> 43bd7ab10259639773a7dd4207aba8b8c8cd0a01
